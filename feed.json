@@ -26,6 +26,20 @@
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Colin%20McRae%20Rally%202.0%20(Europe)%20(En%2CFr%2CDe).png",
           "backgroundPixelated": true,
           "added": 1742818590822
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/GameboyAdvanceRomCollectionByGhostware/Sega%20Rally%20Championship.zip/Sega%20Rally%20Championship%20%28U%29.gba",
+            "rtc": true,
+            "flashSize": 131072
+          },
+          "type": "gba",
+          "title": "SEGA Rally Championship",
+          "description": "It takes a driver with nerves of steel to take a high-powered racecar on the open road. Brave snowdrifts on ice-covered mountains, catch air off huge sand dunes in the desert, or careen around corners in the European countryside. Intensify the action by linking with 3 friends and going head-to-head in a 4-player race to the finish.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/SEGA%20Rally%20Championship%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/SEGA%20Rally%20Championship%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1742821891412
         }
       ],
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Purple_Gameboy_Advance_icon.png",
