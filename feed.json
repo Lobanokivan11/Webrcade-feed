@@ -1,6 +1,14 @@
 {
   "title": "Lobivan11 WEBRCADE",
-  "props": {},
+  "props": {
+    "psx_bios": [
+      "https://github.com/gingerbeardman/PSX/raw/refs/heads/master/PSXONPSP660.BIN",
+      "https://github.com/Abdess/retroarch_system/raw/refs/heads/libretro/Sony%20-%20PlayStation/scph5501.bin",
+      "https://github.com/Abdess/retroarch_system/raw/refs/heads/libretro/Sony%20-%20PlayStation/scph5500.bin",
+      "https://github.com/Abdess/retroarch_system/raw/refs/heads/libretro/Sony%20-%20PlayStation/scph5502.bin",
+      "https://github.com/Abdess/retroarch_system/raw/refs/tags/RetroArch-v1.9.13/system/ps1_rom.bin"
+    ]
+  },
   "categories": [
     {
       "title": "GBA",
