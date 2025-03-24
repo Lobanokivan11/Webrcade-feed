@@ -7,7 +7,12 @@
       "https://github.com/Abdess/retroarch_system/raw/refs/heads/libretro/Sony%20-%20PlayStation/scph5500.bin",
       "https://github.com/Abdess/retroarch_system/raw/refs/heads/libretro/Sony%20-%20PlayStation/scph5502.bin",
       "https://github.com/Abdess/retroarch_system/raw/refs/tags/RetroArch-v1.9.13/system/ps1_rom.bin"
-    ]
+    ],
+    "lnx_boot": "https://github.com/Abdess/retroarch_system/raw/refs/heads/libretro/Atari%20-%20Lynx/lynxboot.img",
+    "neogeocd_bios": "https://github.com/Abdess/retroarch_system/raw/refs/heads/libretro/SNK%20-%20NeoGeo%20CD/uni-bioscd.rom",
+    "neogeo_bios": "https://github.com/Abdess/retroarch_system/raw/refs/heads/libretro/Arcade/neogeo.zip",
+    "atari5200_rom": "https://github.com/Abdess/retroarch_system/raw/refs/heads/libretro/Atari%20-%205200/5200.rom",
+    "coleco_rom": "https://github.com/Abdess/retroarch_system/raw/refs/heads/libretro/Coleco%20-%20ColecoVision/colecovision.rom"
   },
   "categories": [
     {
