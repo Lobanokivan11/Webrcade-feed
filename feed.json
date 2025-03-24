@@ -1,0 +1,25 @@
+{
+  "title": "Lobivan11 WEBRCADE",
+  "props": {},
+  "categories": [
+    {
+      "title": "GBA",
+      "items": [
+        {
+          "props": {
+            "rom": "https://archive.org/download/GameboyAdvanceRomCollectionByGhostware/Colin%20McRae%20Rally%202.0.zip/Colin%20McRae%20Rally%202.0%20%28U%29.gba",
+            "rtc": true,
+            "flashSize": 131072
+          },
+          "type": "gba",
+          "title": "Colin McRae Rally 2.0",
+          "description": "Colin McRae Rally 2.0 is a Rally / Offroad Racing game.\nThis second Colin McRae gamefeatures the 1999-spec Ford Focus WRC, the 2000-spec Ford Focus RS WRC, Mitsubishi Lancer EVO VI Gr.A, Subaru Impreza WRC2000, Peugeot 206 WRC, Toyota Corolla WRC and SEAT Córdoba WRC, among other cars. The countries included are Kenya (gravel and tarmac), Finland (gravel and mud), United Kingdom (tarmac, mud and gravel), Sweden (snow and ice), Australia (loose pea gravel), Japan (1 stage in challenge mode, Tarmac and Mud), France (Corsica) (tarmac), Greece (rough gravel), and Italy (tarmac). The car featured on the front cover of the gamewas McRae's Ford Focus WRC 2000 (V3 FMC).",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Colin%20McRae%20Rally%202.0%20(Europe)%20(En%2CFr%2CDe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Colin%20McRae%20Rally%202.0%20(Europe)%20(En%2CFr%2CDe).png",
+          "backgroundPixelated": true,
+          "added": 1742818590822
+        }
+      ]
+    }
+  ]
+}
