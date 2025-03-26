@@ -27,10 +27,11 @@
           "type": "gba",
           "title": "Colin McRae Rally 2.0",
           "description": "Colin McRae Rally 2.0 is a Rally / Offroad Racing game.\nThis second Colin McRae gamefeatures the 1999-spec Ford Focus WRC, the 2000-spec Ford Focus RS WRC, Mitsubishi Lancer EVO VI Gr.A, Subaru Impreza WRC2000, Peugeot 206 WRC, Toyota Corolla WRC and SEAT Córdoba WRC, among other cars. The countries included are Kenya (gravel and tarmac), Finland (gravel and mud), United Kingdom (tarmac, mud and gravel), Sweden (snow and ice), Australia (loose pea gravel), Japan (1 stage in challenge mode, Tarmac and Mud), France (Corsica) (tarmac), Greece (rough gravel), and Italy (tarmac). The car featured on the front cover of the gamewas McRae's Ford Focus WRC 2000 (V3 FMC).",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Colin%20McRae%20Rally%202.0%20(Europe)%20(En%2CFr%2CDe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Colin%20McRae%20Rally%202.0%20(Europe)%20(En%2CFr%2CDe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Colin%20McRae%20Rally%202.0%20(USA)%20(En%2CFr%2CDe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Colin%20McRae%20Rally%202.0%20(USA)%20(En%2CFr%2CDe).png",
           "backgroundPixelated": true,
-          "added": 1742818590822
+          "added": 1742818590822,
+          "longTitle": "Colin McRae Rally 2.0 (USA) (En,Fr,De)"
         },
         {
           "props": {
@@ -41,10 +42,11 @@
           "type": "gba",
           "title": "SEGA Rally Championship",
           "description": "It takes a driver with nerves of steel to take a high-powered racecar on the open road. Brave snowdrifts on ice-covered mountains, catch air off huge sand dunes in the desert, or careen around corners in the European countryside. Intensify the action by linking with 3 friends and going head-to-head in a 4-player race to the finish.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/SEGA%20Rally%20Championship%20(Europe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/SEGA%20Rally%20Championship%20(Europe).png",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/SEGA%20Rally%20Championship%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/SEGA%20Rally%20Championship%20(USA).png",
           "backgroundPixelated": true,
-          "added": 1742821891412
+          "added": 1742821891412,
+          "longTitle": "SEGA Rally Championship (USA)"
         }
       ],
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Purple_Gameboy_Advance_icon.png",
@@ -67,6 +69,21 @@
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Gran%20Turismo%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
           "backgroundPixelated": true,
           "added": 1742819862980
+        },
+        {
+          "props": {
+            "discs": [
+              "https://archive.org/download/gran-turismo-2-project-a-spec/PSX/NTSC-U/CHD/Gran%20Turismo%202%20-%20Project%20A-Spec%201.2%20%28Combined%20Disc%29.chd"
+            ],
+            "sbi": [],
+            "uid": "04eb1d94-c72b-49e8-a99e-528c41c5190e"
+          },
+          "type": "psx",
+          "title": "Gran Turismo 2: Project A-Spec",
+          "description": "Project A-Spec is a mod for the Gran Turismo 2 PlayStation One game which aims to expand the game with new cars, events, restored content, race music and overall add fixes.",
+          "thumbnail": "https://archive.org/download/gran-turismo-2-project-a-spec/logo_aspec.png",
+          "background": "https://archive.org/download/gran-turismo-2-a-spec-mod/maxresdefault.jpg",
+          "added": 1742986182146
         }
       ],
       "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/PlayStation-SCPH-1000-with-Controller.png/250px-PlayStation-SCPH-1000-with-Controller.png",
