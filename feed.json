@@ -12,7 +12,28 @@
     "neogeocd_bios": "https://github.com/Abdess/retroarch_system/raw/refs/heads/libretro/SNK%20-%20NeoGeo%20CD/uni-bioscd.rom",
     "neogeo_bios": "https://github.com/Abdess/retroarch_system/raw/refs/heads/libretro/Arcade/neogeo.zip",
     "atari5200_rom": "https://github.com/Abdess/retroarch_system/raw/refs/heads/libretro/Atari%20-%205200/5200.rom",
-    "coleco_rom": "https://github.com/Abdess/retroarch_system/raw/refs/heads/libretro/Coleco%20-%20ColecoVision/colecovision.rom"
+    "coleco_rom": "https://github.com/Abdess/retroarch_system/raw/refs/heads/libretro/Coleco%20-%20ColecoVision/colecovision.rom",
+    "saturn_bios": "https://github.com/Abdess/retrobios/raw/refs/heads/main/bios/Sega/Saturn/mpr-18811-mx.ic1",
+    "threedo_fonts": "https://github.com/Abdess/retrobios/raw/refs/heads/main/bios/3DO%20Company/3DO/panafz1-kanji.bin",
+    "threedo_bios": "https://github.com/Abdess/retrobios/raw/refs/heads/main/bios/3DO%20Company/3DO/panafz1.bin",
+    "commodore8bit_bios": [
+      "https://github.com/Abdess/retrobios/raw/refs/heads/main/bios/Commodore/C64/basic",
+      "https://github.com/Abdess/retrobios/raw/refs/heads/main/bios/Commodore/C64/chargen"
+    ],
+    "pcecd_bios": "https://github.com/Abdess/retrobios/raw/refs/heads/main/bios/NEC/PC%20Engine%20CD/PCECD_gecard.pce",
+    "pcfx_bios": "https://github.com/Abdess/retrobios/raw/refs/heads/main/bios/NEC/PC-FX/pcfx.rom",
+    "ds_nickname": "lob",
+    "ds_bios": [
+      "https://github.com/Abdess/retrobios/raw/refs/heads/main/bios/Nintendo/DS/dsi_bios9.bin",
+      "https://github.com/Abdess/retrobios/raw/refs/heads/main/bios/Nintendo/DS/dsi_bios7.bin"
+    ],
+    "fds_bios": "https://github.com/Abdess/retrobios/raw/refs/heads/main/bios/Nintendo/Famicom%20Disk%20System/disksys.rom",
+    "segacd_bios": [
+      "https://github.com/Abdess/retrobios/raw/refs/heads/main/bios/Sega/Mega-CD/SCD_m1_us_110.bin",
+      "https://github.com/Abdess/retrobios/raw/refs/heads/main/bios/Sega/Mega%20CD/bios_CD_U.bin",
+      "https://github.com/Abdess/retrobios/raw/refs/heads/main/bios/Sega/Mega%20CD/bios_CD_J.bin",
+      "https://github.com/Abdess/retrobios/raw/refs/heads/main/bios/Sega/Mega%20CD/bios_CD_E.bin"
+    ]
   },
   "categories": [
     {
@@ -88,9 +109,34 @@
       ],
       "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/PlayStation-SCPH-1000-with-Controller.png/250px-PlayStation-SCPH-1000-with-Controller.png",
       "background": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/PlayStation-SCPH-1000-with-Controller.png/250px-PlayStation-SCPH-1000-with-Controller.png"
+    },
+    {
+      "title": "SATURN",
+      "items": [
+        {
+          "props": {
+            "discs": [
+              "https://archive.org/download/SSCHD-Arquivista/Sega%20Rally%20Championship%20Plus%20Netlink%20Edition%20%28US%29.chd"
+            ],
+            "uid": "ce2042f3-779f-46a9-b26d-17894934013a",
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sega%20-%20Saturn/Sega%20Rally%20Championship%20(GameShark).cht",
+            "ramExpansion": 2
+          },
+          "type": "retro-yabause",
+          "title": "Sega Rally Championship",
+          "description": "Sega Rally is an iconic arcade racer that defined the rally genre on the Saturn. Featuring three tracks (Desert, Forest, and Mountain) and two legendary cars (the Toyota Celica and Lancia Stratos), the game focuses on mastering the art of the 'power slide.' The handling model is highly praised for its responsiveness and the way it simulates different driving surfaces like mud, gravel, and asphalt. The European version is a technical masterclass, maintaining a rock-solid 30FPS with minimal pop-in, serving as a flagship title for the console's 3D capabilities.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Sega%20Rally%20Championship%20v1.000%20(Europe)%5BMK81207P626%20P4H%5D.png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Snaps/output/Sega%20Rally%20Championship%20v1.000%20(Europe)%5BMK81207P626%20P4H%5D.png",
+          "backgroundPixelated": true,
+          "added": 1779631891784
+        }
+      ],
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sega-Saturn-Console-Set-Mk2.png/3840px-Sega-Saturn-Console-Set-Mk2.png",
+      "background": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Sega-Saturn-Console-Set-Mk2.png"
     }
   ],
   "thumbnail": "https://avatars.githubusercontent.com/u/59411324?v=4",
   "background": "https://avatars.githubusercontent.com/u/59411324?v=4",
-  "backgroundPixelated": false
+  "backgroundPixelated": false,
+  "longTitle": "WebRcade Feed From Github created by Lobivan11"
 }
