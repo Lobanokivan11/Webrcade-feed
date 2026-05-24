@@ -43,7 +43,8 @@
           "props": {
             "rom": "https://archive.org/download/GameboyAdvanceRomCollectionByGhostware/Colin%20McRae%20Rally%202.0.zip/Colin%20McRae%20Rally%202.0%20%28U%29.gba",
             "rtc": true,
-            "flashSize": 131072
+            "flashSize": 131072,
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Nintendo%20-%20Game%20Boy%20Advance/Colin%20McRae%20Rally%202.0%20(USA%2C%20Europe)%20(Code%20Breaker).cht"
           },
           "type": "gba",
           "title": "Colin McRae Rally 2.0",
@@ -58,7 +59,8 @@
           "props": {
             "rom": "https://archive.org/download/GameboyAdvanceRomCollectionByGhostware/Sega%20Rally%20Championship.zip/Sega%20Rally%20Championship%20%28U%29.gba",
             "rtc": true,
-            "flashSize": 131072
+            "flashSize": 131072,
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Nintendo%20-%20Game%20Boy%20Advance/Sega%20Rally%20Championship%20(World)%20(Code%20Breaker).cht"
           },
           "type": "gba",
           "title": "SEGA Rally Championship",
@@ -81,7 +83,8 @@
             "uid": "09ad28b0-8b6a-4752-9e64-7327559f0a55",
             "discs": [
               "https://archive.org/download/psx-chd-roms-g/Gran%20Turismo%20%28USA%29%20%28Rev%201%29.chd"
-            ]
+            ],
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sony%20-%20PlayStation/Gran%20Turismo%20(USA)%20(GameShark).cht"
           },
           "type": "psx",
           "title": "Gran Turismo",
@@ -97,7 +100,8 @@
               "https://archive.org/download/gran-turismo-2-project-a-spec/PSX/NTSC-U/CHD/Gran%20Turismo%202%20-%20Project%20A-Spec%201.2%20%28Combined%20Disc%29.chd"
             ],
             "sbi": [],
-            "uid": "04eb1d94-c72b-49e8-a99e-528c41c5190e"
+            "uid": "04eb1d94-c72b-49e8-a99e-528c41c5190e",
+            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sony%20-%20PlayStation/Gran%20Turismo%202%20USA%20(v1.2)%20(Duckstation).cht"
           },
           "type": "psx",
           "title": "Gran Turismo 2: Project A-Spec",
