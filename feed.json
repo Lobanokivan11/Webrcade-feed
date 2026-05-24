@@ -93,22 +93,6 @@
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Gran%20Turismo%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
           "backgroundPixelated": true,
           "added": 1742819862980
-        },
-        {
-          "props": {
-            "discs": [
-              "https://archive.org/download/gran-turismo-2-project-a-spec/PSX/NTSC-U/CHD/Gran%20Turismo%202%20-%20Project%20A-Spec%201.2%20%28Combined%20Disc%29.chd"
-            ],
-            "sbi": [],
-            "uid": "04eb1d94-c72b-49e8-a99e-528c41c5190e",
-            "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sony%20-%20PlayStation/Gran%20Turismo%202%20USA%20(v1.2)%20(Duckstation).cht"
-          },
-          "type": "psx",
-          "title": "Gran Turismo 2: Project A-Spec",
-          "description": "Project A-Spec is a mod for the Gran Turismo 2 PlayStation One game which aims to expand the game with new cars, events, restored content, race music and overall add fixes.",
-          "thumbnail": "https://archive.org/download/gran-turismo-2-project-a-spec/logo_aspec.png",
-          "background": "https://archive.org/download/gran-turismo-2-a-spec-mod/maxresdefault.jpg",
-          "added": 1742986182146
         }
       ],
       "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/PlayStation-SCPH-1000-with-Controller.png/250px-PlayStation-SCPH-1000-with-Controller.png",
