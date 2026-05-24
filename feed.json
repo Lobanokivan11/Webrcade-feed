@@ -126,7 +126,7 @@
             "cheat": "https://raw.githubusercontent.com/webrcade-assets/libdb/master/cht/Sega%20-%20Saturn/Sega%20Rally%20Championship%20(GameShark).cht",
             "ramExpansion": 2
           },
-          "type": "retro-yabause",
+          "type": "saturn",
           "title": "Sega Rally Championship",
           "description": "Sega Rally is an iconic arcade racer that defined the rally genre on the Saturn. Featuring three tracks (Desert, Forest, and Mountain) and two legendary cars (the Toyota Celica and Lancia Stratos), the game focuses on mastering the art of the 'power slide.' The handling model is highly praised for its responsiveness and the way it simulates different driving surfaces like mud, gravel, and asphalt. The European version is a technical masterclass, maintaining a rock-solid 30FPS with minimal pop-in, serving as a flagship title for the console's 3D capabilities.",
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-saturn-images/master/Named_Titles/resized/Sega%20Rally%20Championship%20v1.000%20(Europe)%5BMK81207P626%20P4H%5D.png",
