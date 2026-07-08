@@ -117,6 +117,49 @@
       ],
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Sega-Saturn-Console-Set-Mk2.png/3840px-Sega-Saturn-Console-Set-Mk2.png",
       "background": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Sega-Saturn-Console-Set-Mk2.png"
+    },
+    {
+      "title": "N64",
+      "thumbnail": "https://i.redd.it/vchq70qnykqb1.png",
+      "background": "https://i.redd.it/vchq70qnykqb1.png",
+      "items": [
+        {
+          "props": {
+            "rom": "https://archive.org/download/roms-bestset-nintendo-64/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20%28USA%29%20%28Rev%20B%29.n64.zip/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20%28Europe%29%20%28En%2CFr%2CDe%29%20%28Rev%20A%29.z64"
+          },
+          "type": "n64",
+          "title": "Legend of Zelda, The - Ocarina of Time",
+          "description": "Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule.  He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce.  As the young hero Link, it is your destiny to thwart Ganondorf's evil schemes.  Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora's Domain.  Before you complete this epic quest, you'll delve into deadly dungeons, collect weapons of great power and learn the spells you need to conquer the most irresistible force of all-time.\n\n* The immersive storyline and environments draw players into an amazing 3D world.\n* Time travel allows you to play as Link in different stages of his life.\n* New gameplay features include a unique targeting system and 1st and 3rd person perspectives.\n* Up to three games can be saved simultaneously to memory!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20(Europe)%20(Beta)%20(2003-02-13)%20(GameCube).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Legend%20of%20Zelda%2C%20The%20-%20Ocarina%20of%20Time%20(Europe)%20(Beta)%20(2003-02-13)%20(GameCube).png",
+          "backgroundPixelated": true,
+          "added": 1783502563341
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/roms-bestset-nintendo-64/Legend%20of%20Zelda%2C%20The%20-%20Majora%27s%20Mask%20%28USA%29.n64.zip/Legend%20of%20Zelda%2C%20The%20-%20Majora%27s%20Mask%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29%20%28Rev%20A%29.z64"
+          },
+          "type": "n64",
+          "title": "Legend of Zelda, The - Majora's Mask",
+          "description": "Link's all-new epic adventure lands him in the mystical world of Termina, where ever-present clocks count down the hours until a menacing moon falls from the sky above.  When his horse and Ocarina are stolen by a strange, masked figure, Link embarks on an urgent quest to solve the mystery of the moon, save the world from destruction, and find his way back to the peaceful land of Hyrule!\n\n* Link transforms before your eyes--Over 20 magical masks give Link powers and abilities he's never had before!  Watch him transform into a hapless Deku child, a mighty Goron hero and a legendary Zora guitarist.\n* Race against time--Characters and events flow with the hours of the day.  Set your own schedule and even alter time itself in a race to stop the moon and save the world!\n* Panoramic environments!  Powered-up action battles!  Fully interactive characters and events!  Experience gorgeous rendered landscapes, swarms of attacking enemies and a deep, engrossing world of wonders with the power of the N64 Expansion Pak.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Legend%20of%20Zelda%2C%20The%20-%20Majora's%20Mask%20(Europe)%20(En%2CFr%2CDe%2CEs).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Legend%20of%20Zelda%2C%20The%20-%20Majora's%20Mask%20(Europe)%20(En%2CFr%2CDe%2CEs).png",
+          "backgroundPixelated": true,
+          "added": 1783502602483
+        },
+        {
+          "props": {
+            "rom": "https://archive.org/download/roms-bestset-nintendo-64/GT64%20-%20Championship%20Edition%20%28USA%29.n64.zip/GT64%20-%20Championship%20Edition%20%28USA%29.z64"
+          },
+          "type": "n64",
+          "title": "GT 64 - Championship Edition",
+          "description": "",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/GT%2064%20-%20Championship%20Edition%20(Europe)%20(En%2CFr%2CDe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/GT%2064%20-%20Championship%20Edition%20(Europe)%20(En%2CFr%2CDe).png",
+          "backgroundPixelated": true,
+          "added": 1783502632597
+        }
+      ]
     }
   ],
   "thumbnail": "https://avatars.githubusercontent.com/u/59411324?v=4",
