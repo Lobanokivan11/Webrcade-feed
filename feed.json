@@ -160,6 +160,25 @@
           "added": 1783502632597
         }
       ]
+    },
+    {
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/42/Nintendo-DS-Fat-Blue.jpg",
+      "background": "https://upload.wikimedia.org/wikipedia/commons/4/42/Nintendo-DS-Fat-Blue.jpg",
+      "title": "NDS",
+      "items": [
+        {
+          "props": {
+            "rom": "https://archive.org/download/MarioCubeLite/DSiWare/NDS/T/Tetris%20Party%20Live%20%28USA%29%20%28En%2CFr%2CEs%29.nds"
+          },
+          "type": "nds",
+          "title": "Tetris Party Live",
+          "description": "Now you can party with Tetris whenever and wherever you want! Tetris Party Live features several exciting game modes from the popular Tetris Party series, including Marathon (1P), Computer Battle (1P vs CPU), VS Battle (2P), and Duel Space (2P). But the party doesn’t stop there! Take the Tetris fun online via Nintendo Wi-Fi Connection, where you can play multiplayer Tetris against up to three other players at a time.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Titles/resized/Tetris%20Party%20Live.png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nds-images/master/Named_Snaps/output/Tetris%20Party%20Live.png",
+          "backgroundPixelated": true,
+          "added": 1783503254643
+        }
+      ]
     }
   ],
   "thumbnail": "https://avatars.githubusercontent.com/u/59411324?v=4",
